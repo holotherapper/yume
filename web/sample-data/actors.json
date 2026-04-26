@@ -1,0 +1,4442 @@
+[
+  {
+    "display_name": "Ren Takahashi",
+    "role": "office_worker",
+    "is_focus": true,
+    "age": 32,
+    "gender": "male",
+    "mbti": "ENFP",
+    "profile": "UX designer at a startup in Shibuya CAST. Grew up in Hokkaido and moved to Tokyo chasing the design scene. Runs a weekend photography zine with friends.",
+    "initial_location_id": "apt_a",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "haruki_nomura",
+          "closeness": 30,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "haruto_inoue",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "mao_shimizu",
+          "closeness": 36,
+          "trust": 42,
+          "tension": 4,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "megumi_sugiyama",
+          "closeness": 35,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ryuji_matsuo",
+          "closeness": 25,
+          "trust": 20,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sakura_endo",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tsubasa_nishimura",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuki_tanaka",
+          "closeness": 62,
+          "trust": 58,
+          "tension": 8,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "cafe_streamer",
+        "night": "apt_a"
+      },
+      "Tue": {
+        "morning": "shibuya_cast",
+        "noon": "cafe_mameya",
+        "evening": "shibuya_cast",
+        "night": "apt_a"
+      },
+      "Wed": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "fitness_gym",
+        "night": "apt_a"
+      },
+      "Thu": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "izakaya_nonbei",
+        "night": "apt_a"
+      },
+      "Fri": {
+        "morning": "shibuya_cast",
+        "noon": "ramen_nagi",
+        "evening": "bar_oath",
+        "night": "apt_a"
+      },
+      "Sat": {
+        "morning": "cafe_streamer",
+        "noon": "miyashita_park",
+        "evening": "parco",
+        "night": "apt_a"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "cafe_fuglen",
+        "evening": "apt_a",
+        "night": "apt_a"
+      }
+    }
+  },
+  {
+    "display_name": "Yuki Tanaka",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 28,
+    "gender": "female",
+    "mbti": "INFP",
+    "profile": "Works at a tech startup in Hikarie. Moved to Shibuya from Osaka two years ago and still misses takoyaki.",
+    "initial_location_id": "apt_a",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "kenta_abe",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "mao_shimizu",
+          "closeness": 48,
+          "trust": 50,
+          "tension": 3,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ren_takahashi",
+          "closeness": 60,
+          "trust": 56,
+          "tension": 8,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sakura_endo",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "shota_nakamura",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tsubasa_nishimura",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "cafe_dogenzaka",
+        "night": "apt_a"
+      },
+      "Tue": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "hikarie",
+        "night": "apt_a"
+      },
+      "Wed": {
+        "morning": "hikarie",
+        "noon": "ramen_nagi",
+        "evening": "hikarie",
+        "night": "apt_a"
+      },
+      "Thu": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "shibuya_library",
+        "night": "apt_a"
+      },
+      "Fri": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "izakaya_nonbei",
+        "night": "apt_a"
+      },
+      "Sat": {
+        "morning": "apt_a",
+        "noon": "miyashita_park",
+        "evening": "parco",
+        "night": "apt_a"
+      },
+      "Sun": {
+        "morning": "apt_a",
+        "noon": "yoyogi_park",
+        "evening": "cafe_mameya",
+        "night": "apt_a"
+      }
+    }
+  },
+  {
+    "display_name": "Kenji Sato",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 35,
+    "gender": "male",
+    "mbti": "ISTJ",
+    "profile": "Financial analyst at Aoyama Financial Center. Methodical and punctual, he eats lunch at the same sushi spot every Thursday.",
+    "initial_location_id": "apt_b",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "ayumi_kobayashi",
+          "closeness": 34,
+          "trust": 46,
+          "tension": 2,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "daiki_yamada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "gen_harada",
+          "closeness": 22,
+          "trust": 18,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "mei_fujita",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "rina_watanabe",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "cross_tower",
+        "noon": "cross_tower",
+        "evening": "cross_tower",
+        "night": "apt_b"
+      },
+      "Tue": {
+        "morning": "cross_tower",
+        "noon": "ramen_nagi",
+        "evening": "cross_tower",
+        "night": "apt_b"
+      },
+      "Wed": {
+        "morning": "cross_tower",
+        "noon": "cross_tower",
+        "evening": "fitness_gym",
+        "night": "apt_b"
+      },
+      "Thu": {
+        "morning": "cross_tower",
+        "noon": "sushi_midori",
+        "evening": "cross_tower",
+        "night": "apt_b"
+      },
+      "Fri": {
+        "morning": "cross_tower",
+        "noon": "cross_tower",
+        "evening": "izakaya_nonbei",
+        "night": "apt_b"
+      },
+      "Sat": {
+        "morning": "apt_b",
+        "noon": "shibuya_library",
+        "evening": "apt_b",
+        "night": "apt_b"
+      },
+      "Sun": {
+        "morning": "apt_b",
+        "noon": "apt_b",
+        "evening": "apt_b",
+        "night": "apt_b"
+      }
+    }
+  },
+  {
+    "display_name": "Mao Shimizu",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 26,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "profile": "HR coordinator at Scramble Square. Loves organizing team events and knows every good lunch spot within a 5-minute walk.",
+    "initial_location_id": "apt_a",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "akira_sasaki",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ren_takahashi",
+          "closeness": 38,
+          "trust": 44,
+          "tension": 4,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sakura_endo",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tsubasa_nishimura",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuki_tanaka",
+          "closeness": 50,
+          "trust": 50,
+          "tension": 3,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "center_gai",
+        "night": "apt_a"
+      },
+      "Tue": {
+        "morning": "scramble_square",
+        "noon": "ramen_nagi",
+        "evening": "scramble_square",
+        "night": "apt_a"
+      },
+      "Wed": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "shibuya_109",
+        "night": "apt_a"
+      },
+      "Thu": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "scramble_square",
+        "night": "apt_a"
+      },
+      "Fri": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "izakaya_nonbei",
+        "night": "apt_a"
+      },
+      "Sat": {
+        "morning": "apt_a",
+        "noon": "shibuya_109",
+        "evening": "bunkamura",
+        "night": "apt_a"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "cafe_streamer",
+        "evening": "apt_a",
+        "night": "apt_a"
+      }
+    }
+  },
+  {
+    "display_name": "Ayumi Kobayashi",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 31,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "profile": "Accountant at a media company in Infoss Tower. Quiet and reliable, she brings homemade bento every day.",
+    "initial_location_id": "apt_b",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "daiki_yamada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "honoka_yoshida",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kenji_sato",
+          "closeness": 32,
+          "trust": 45,
+          "tension": 2,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "mei_fujita",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "infoss_tower",
+        "noon": "infoss_tower",
+        "evening": "infoss_tower",
+        "night": "apt_b"
+      },
+      "Tue": {
+        "morning": "infoss_tower",
+        "noon": "infoss_tower",
+        "evening": "dogenzaka_market",
+        "night": "apt_b"
+      },
+      "Wed": {
+        "morning": "infoss_tower",
+        "noon": "infoss_tower",
+        "evening": "infoss_tower",
+        "night": "apt_b"
+      },
+      "Thu": {
+        "morning": "infoss_tower",
+        "noon": "infoss_tower",
+        "evening": "infoss_tower",
+        "night": "apt_b"
+      },
+      "Fri": {
+        "morning": "infoss_tower",
+        "noon": "infoss_tower",
+        "evening": "cafe_dogenzaka",
+        "night": "apt_b"
+      },
+      "Sat": {
+        "morning": "apt_b",
+        "noon": "nabeshima_park",
+        "evening": "apt_b",
+        "night": "apt_b"
+      },
+      "Sun": {
+        "morning": "apt_b",
+        "noon": "apt_b",
+        "evening": "apt_b",
+        "night": "apt_b"
+      }
+    }
+  },
+  {
+    "display_name": "Daiki Yamada",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 38,
+    "gender": "male",
+    "mbti": "ESTJ",
+    "profile": "Project manager at a real estate firm in Cerulean Tower. Driven and assertive, he jogs every morning before work.",
+    "initial_location_id": "apt_b",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "ayumi_kobayashi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "gen_harada",
+          "closeness": 22,
+          "trust": 18,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kenji_sato",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "manami_kuroda",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "mei_fujita",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ryuji_matsuo",
+          "closeness": 28,
+          "trust": 23,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "cerulean_tower",
+        "noon": "cerulean_tower",
+        "evening": "cerulean_tower",
+        "night": "apt_b"
+      },
+      "Tue": {
+        "morning": "cerulean_tower",
+        "noon": "sushi_midori",
+        "evening": "cerulean_tower",
+        "night": "apt_b"
+      },
+      "Wed": {
+        "morning": "cerulean_tower",
+        "noon": "cerulean_tower",
+        "evening": "fitness_gym",
+        "night": "apt_b"
+      },
+      "Thu": {
+        "morning": "cerulean_tower",
+        "noon": "cerulean_tower",
+        "evening": "cerulean_tower",
+        "night": "apt_b"
+      },
+      "Fri": {
+        "morning": "cerulean_tower",
+        "noon": "cerulean_tower",
+        "evening": "izakaya_nonbei",
+        "night": "apt_b"
+      },
+      "Sat": {
+        "morning": "yoyogi_park",
+        "noon": "cafe_streamer",
+        "evening": "apt_b",
+        "night": "apt_b"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "apt_b",
+        "evening": "apt_b",
+        "night": "apt_b"
+      }
+    }
+  },
+  {
+    "display_name": "Mei Fujita",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 29,
+    "gender": "female",
+    "mbti": "ENFJ",
+    "profile": "Marketing planner at an advertising agency in Stream. Charismatic and empathetic, she mentors new hires.",
+    "initial_location_id": "apt_b",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "ayumi_kobayashi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "daiki_yamada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "haruki_nomura",
+          "closeness": 26,
+          "trust": 23,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kenji_sato",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "misaki_takagi",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "stream",
+        "noon": "stream",
+        "evening": "stream",
+        "night": "apt_b"
+      },
+      "Tue": {
+        "morning": "stream",
+        "noon": "cafe_streamer",
+        "evening": "stream",
+        "night": "apt_b"
+      },
+      "Wed": {
+        "morning": "stream",
+        "noon": "stream",
+        "evening": "bunkamura",
+        "night": "apt_b"
+      },
+      "Thu": {
+        "morning": "stream",
+        "noon": "stream",
+        "evening": "stream",
+        "night": "apt_b"
+      },
+      "Fri": {
+        "morning": "stream",
+        "noon": "stream",
+        "evening": "izakaya_nonbei",
+        "night": "apt_b"
+      },
+      "Sat": {
+        "morning": "apt_b",
+        "noon": "parco",
+        "evening": "bar_oath",
+        "night": "apt_b"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "cafe_mameya",
+        "evening": "apt_b",
+        "night": "apt_b"
+      }
+    }
+  },
+  {
+    "display_name": "Rina Watanabe",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 33,
+    "gender": "female",
+    "mbti": "ISTJ",
+    "profile": "Legal counsel at a firm in Cross Tower. Precise with words and diligent, she rarely leaves the office before 8 PM.",
+    "initial_location_id": "apt_c",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "haruto_inoue",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kenji_sato",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "saki_morita",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "cross_tower",
+        "noon": "cross_tower",
+        "evening": "cross_tower",
+        "night": "apt_c"
+      },
+      "Tue": {
+        "morning": "cross_tower",
+        "noon": "cross_tower",
+        "evening": "cross_tower",
+        "night": "apt_c"
+      },
+      "Wed": {
+        "morning": "cross_tower",
+        "noon": "ramen_nagi",
+        "evening": "cross_tower",
+        "night": "apt_c"
+      },
+      "Thu": {
+        "morning": "cross_tower",
+        "noon": "cross_tower",
+        "evening": "cross_tower",
+        "night": "apt_c"
+      },
+      "Fri": {
+        "morning": "cross_tower",
+        "noon": "cross_tower",
+        "evening": "cafe_dogenzaka",
+        "night": "apt_c"
+      },
+      "Sat": {
+        "morning": "apt_c",
+        "noon": "shibuya_library",
+        "evening": "bunkamura",
+        "night": "apt_c"
+      },
+      "Sun": {
+        "morning": "apt_c",
+        "noon": "nabeshima_park",
+        "evening": "apt_c",
+        "night": "apt_c"
+      }
+    }
+  },
+  {
+    "display_name": "Haruto Inoue",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 27,
+    "gender": "male",
+    "mbti": "ENTP",
+    "profile": "Business development at a SaaS startup in Shibuya CAST. Always pitching new ideas over coffee.",
+    "initial_location_id": "apt_c",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "ren_takahashi",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "rina_watanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "saki_morita",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_cast",
+        "noon": "cafe_streamer",
+        "evening": "shibuya_cast",
+        "night": "apt_c"
+      },
+      "Tue": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "izakaya_nonbei",
+        "night": "apt_c"
+      },
+      "Wed": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "shibuya_cast",
+        "night": "apt_c"
+      },
+      "Thu": {
+        "morning": "shibuya_cast",
+        "noon": "ramen_nagi",
+        "evening": "shibuya_cast",
+        "night": "apt_c"
+      },
+      "Fri": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "bar_oath",
+        "night": "apt_c"
+      },
+      "Sat": {
+        "morning": "cafe_mameya",
+        "noon": "miyashita_park",
+        "evening": "center_gai",
+        "night": "apt_c"
+      },
+      "Sun": {
+        "morning": "apt_c",
+        "noon": "yoyogi_park",
+        "evening": "apt_c",
+        "night": "apt_c"
+      }
+    }
+  },
+  {
+    "display_name": "Saki Morita",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 30,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "profile": "Executive assistant at a consulting firm in FUKURAS. Incredibly organized and always remembering coworkers' birthdays.",
+    "initial_location_id": "apt_c",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "chihiro_matsumoto",
+          "closeness": 20,
+          "trust": 20,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "haruto_inoue",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "rina_watanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "fukuras",
+        "noon": "fukuras",
+        "evening": "fukuras",
+        "night": "apt_c"
+      },
+      "Tue": {
+        "morning": "fukuras",
+        "noon": "sushi_midori",
+        "evening": "fukuras",
+        "night": "apt_c"
+      },
+      "Wed": {
+        "morning": "fukuras",
+        "noon": "fukuras",
+        "evening": "shibuya_109",
+        "night": "apt_c"
+      },
+      "Thu": {
+        "morning": "fukuras",
+        "noon": "fukuras",
+        "evening": "fukuras",
+        "night": "apt_c"
+      },
+      "Fri": {
+        "morning": "fukuras",
+        "noon": "fukuras",
+        "evening": "center_gai",
+        "night": "apt_c"
+      },
+      "Sat": {
+        "morning": "apt_c",
+        "noon": "parco",
+        "evening": "cafe_streamer",
+        "night": "apt_c"
+      },
+      "Sun": {
+        "morning": "meiji_shrine",
+        "noon": "yoyogi_park",
+        "evening": "apt_c",
+        "night": "apt_c"
+      }
+    }
+  },
+  {
+    "display_name": "Tsubasa Nishimura",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 25,
+    "gender": "male",
+    "mbti": "ISFP",
+    "profile": "Junior web developer at a startup in Sakura Stage. Quiet but passionate about front-end animations.",
+    "initial_location_id": "apt_a",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "mao_shimizu",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ren_takahashi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sakura_endo",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuki_tanaka",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "sakura_stage",
+        "noon": "sakura_stage",
+        "evening": "sakura_stage",
+        "night": "apt_a"
+      },
+      "Tue": {
+        "morning": "sakura_stage",
+        "noon": "ramen_nagi",
+        "evening": "sakura_stage",
+        "night": "apt_a"
+      },
+      "Wed": {
+        "morning": "sakura_stage",
+        "noon": "sakura_stage",
+        "evening": "shibuya_cast",
+        "night": "apt_a"
+      },
+      "Thu": {
+        "morning": "sakura_stage",
+        "noon": "sakura_stage",
+        "evening": "sakura_stage",
+        "night": "apt_a"
+      },
+      "Fri": {
+        "morning": "sakura_stage",
+        "noon": "sakura_stage",
+        "evening": "izakaya_nonbei",
+        "night": "apt_a"
+      },
+      "Sat": {
+        "morning": "apt_a",
+        "noon": "tower_records",
+        "evening": "miyashita_park",
+        "night": "apt_a"
+      },
+      "Sun": {
+        "morning": "apt_a",
+        "noon": "apt_a",
+        "evening": "cafe_mameya",
+        "night": "apt_a"
+      }
+    }
+  },
+  {
+    "display_name": "Sakura Endo",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 34,
+    "gender": "female",
+    "mbti": "INTJ",
+    "profile": "Data scientist at a fintech in Scramble Square. Prefers spreadsheets to small talk and reads academic papers on weekends.",
+    "initial_location_id": "apt_a",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "akira_sasaki",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "mao_shimizu",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ren_takahashi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tsubasa_nishimura",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuki_tanaka",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "scramble_square",
+        "night": "apt_a"
+      },
+      "Tue": {
+        "morning": "scramble_square",
+        "noon": "cafe_mameya",
+        "evening": "scramble_square",
+        "night": "apt_a"
+      },
+      "Wed": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "scramble_square",
+        "night": "apt_a"
+      },
+      "Thu": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "scramble_square",
+        "night": "apt_a"
+      },
+      "Fri": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "cafe_dogenzaka",
+        "night": "apt_a"
+      },
+      "Sat": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "apt_a",
+        "night": "apt_a"
+      },
+      "Sun": {
+        "morning": "apt_a",
+        "noon": "shibuya_library",
+        "evening": "apt_a",
+        "night": "apt_a"
+      }
+    }
+  },
+  {
+    "display_name": "Shota Nakamura",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 40,
+    "gender": "male",
+    "mbti": "ESTJ",
+    "profile": "Sales director at an ad-tech company in Hikarie. Competitive and target-driven, he takes clients out for yakitori.",
+    "initial_location_id": "apt_d",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "honoka_yoshida",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kenta_abe",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "misaki_takagi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ryuji_matsuo",
+          "closeness": 28,
+          "trust": 23,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuki_tanaka",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "izakaya_nonbei",
+        "night": "apt_d"
+      },
+      "Tue": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "hikarie",
+        "night": "apt_d"
+      },
+      "Wed": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "hikarie",
+        "night": "apt_d"
+      },
+      "Thu": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "izakaya_nonbei",
+        "night": "apt_d"
+      },
+      "Fri": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "bar_oath",
+        "night": "apt_d"
+      },
+      "Sat": {
+        "morning": "fitness_gym",
+        "noon": "cafe_streamer",
+        "evening": "apt_d",
+        "night": "apt_d"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "apt_d",
+        "evening": "apt_d",
+        "night": "apt_d"
+      }
+    }
+  },
+  {
+    "display_name": "Misaki Takagi",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 29,
+    "gender": "female",
+    "mbti": "INFP",
+    "profile": "Content writer at a media startup in Stream. Introverted dreamer who journals at cafes after work.",
+    "initial_location_id": "apt_d",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "honoka_yoshida",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "mei_fujita",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ryuji_matsuo",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "shota_nakamura",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "stream",
+        "noon": "stream",
+        "evening": "cafe_dogenzaka",
+        "night": "apt_d"
+      },
+      "Tue": {
+        "morning": "stream",
+        "noon": "stream",
+        "evening": "stream",
+        "night": "apt_d"
+      },
+      "Wed": {
+        "morning": "stream",
+        "noon": "cafe_streamer",
+        "evening": "stream",
+        "night": "apt_d"
+      },
+      "Thu": {
+        "morning": "stream",
+        "noon": "stream",
+        "evening": "shibuya_library",
+        "night": "apt_d"
+      },
+      "Fri": {
+        "morning": "stream",
+        "noon": "stream",
+        "evening": "cafe_mameya",
+        "night": "apt_d"
+      },
+      "Sat": {
+        "morning": "cafe_fuglen",
+        "noon": "shibuya_library",
+        "evening": "bunkamura",
+        "night": "apt_d"
+      },
+      "Sun": {
+        "morning": "apt_d",
+        "noon": "nabeshima_park",
+        "evening": "apt_d",
+        "night": "apt_d"
+      }
+    }
+  },
+  {
+    "display_name": "Honoka Yoshida",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 36,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "profile": "Administrative manager at a publishing house in Infoss Tower. Remembers every deadline and every colleague's coffee order.",
+    "initial_location_id": "apt_d",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "ayumi_kobayashi",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "misaki_takagi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ryuji_matsuo",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "shota_nakamura",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "infoss_tower",
+        "noon": "infoss_tower",
+        "evening": "infoss_tower",
+        "night": "apt_d"
+      },
+      "Tue": {
+        "morning": "infoss_tower",
+        "noon": "infoss_tower",
+        "evening": "infoss_tower",
+        "night": "apt_d"
+      },
+      "Wed": {
+        "morning": "infoss_tower",
+        "noon": "cafe_dogenzaka",
+        "evening": "infoss_tower",
+        "night": "apt_d"
+      },
+      "Thu": {
+        "morning": "infoss_tower",
+        "noon": "infoss_tower",
+        "evening": "infoss_tower",
+        "night": "apt_d"
+      },
+      "Fri": {
+        "morning": "infoss_tower",
+        "noon": "infoss_tower",
+        "evening": "family_restaurant",
+        "night": "apt_d"
+      },
+      "Sat": {
+        "morning": "apt_d",
+        "noon": "dogenzaka_market",
+        "evening": "apt_d",
+        "night": "apt_d"
+      },
+      "Sun": {
+        "morning": "meiji_shrine",
+        "noon": "apt_d",
+        "evening": "apt_d",
+        "night": "apt_d"
+      }
+    }
+  },
+  {
+    "display_name": "Aoi Nakagawa",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 23,
+    "gender": "female",
+    "mbti": "ESFP",
+    "profile": "First-year sales associate at a fashion brand in Mark City. Bubbly and outgoing, she lives for after-work karaoke.",
+    "initial_location_id": "apt_e",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "goro_tanabe",
+          "closeness": 20,
+          "trust": 18,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "haruki_nomura",
+          "closeness": 26,
+          "trust": 23,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kenta_abe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "mark_city",
+        "noon": "mark_city",
+        "evening": "center_gai",
+        "night": "apt_e"
+      },
+      "Tue": {
+        "morning": "mark_city",
+        "noon": "ramen_nagi",
+        "evening": "mark_city",
+        "night": "apt_e"
+      },
+      "Wed": {
+        "morning": "mark_city",
+        "noon": "mark_city",
+        "evening": "shibuya_109",
+        "night": "apt_e"
+      },
+      "Thu": {
+        "morning": "mark_city",
+        "noon": "mark_city",
+        "evening": "mark_city",
+        "night": "apt_e"
+      },
+      "Fri": {
+        "morning": "mark_city",
+        "noon": "mark_city",
+        "evening": "izakaya_nonbei",
+        "night": "apt_e"
+      },
+      "Sat": {
+        "morning": "shibuya_109",
+        "noon": "parco",
+        "evening": "bar_oath",
+        "night": "apt_e"
+      },
+      "Sun": {
+        "morning": "apt_e",
+        "noon": "miyashita_park",
+        "evening": "apt_e",
+        "night": "apt_e"
+      }
+    }
+  },
+  {
+    "display_name": "Kenta Abe",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 31,
+    "gender": "male",
+    "mbti": "ISTP",
+    "profile": "Infrastructure engineer at a cloud services company in Hikarie. Prefers terminals to meetings and fixes production incidents at 3 AM.",
+    "initial_location_id": "apt_e",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "aoi_nakagawa",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "shota_nakamura",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuki_tanaka",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "hikarie",
+        "night": "apt_e"
+      },
+      "Tue": {
+        "morning": "hikarie",
+        "noon": "ramen_nagi",
+        "evening": "hikarie",
+        "night": "apt_e"
+      },
+      "Wed": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "hikarie",
+        "night": "apt_e"
+      },
+      "Thu": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "hikarie",
+        "night": "apt_e"
+      },
+      "Fri": {
+        "morning": "hikarie",
+        "noon": "hikarie",
+        "evening": "ramen_nagi",
+        "night": "apt_e"
+      },
+      "Sat": {
+        "morning": "apt_e",
+        "noon": "apt_e",
+        "evening": "apt_e",
+        "night": "apt_e"
+      },
+      "Sun": {
+        "morning": "apt_e",
+        "noon": "shibuya_cast",
+        "evening": "apt_e",
+        "night": "apt_e"
+      }
+    }
+  },
+  {
+    "display_name": "Akira Sasaki",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 44,
+    "gender": "male",
+    "mbti": "ESTJ",
+    "profile": "Branch manager at an IT services company in Scramble Square. No-nonsense style, always the first in the office.",
+    "initial_location_id": "apt_i",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "manami_kuroda",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "mao_shimizu",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "noriko_hamada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ryuji_matsuo",
+          "closeness": 28,
+          "trust": 23,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sakura_endo",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "shingo_kawai",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "scramble_square",
+        "night": "apt_i"
+      },
+      "Tue": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "scramble_square",
+        "night": "apt_i"
+      },
+      "Wed": {
+        "morning": "scramble_square",
+        "noon": "sushi_midori",
+        "evening": "scramble_square",
+        "night": "apt_i"
+      },
+      "Thu": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "scramble_square",
+        "night": "apt_i"
+      },
+      "Fri": {
+        "morning": "scramble_square",
+        "noon": "scramble_square",
+        "evening": "izakaya_nonbei",
+        "night": "apt_i"
+      },
+      "Sat": {
+        "morning": "fitness_gym",
+        "noon": "apt_i",
+        "evening": "apt_i",
+        "night": "apt_i"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "apt_i",
+        "evening": "apt_i",
+        "night": "apt_i"
+      }
+    }
+  },
+  {
+    "display_name": "Manami Kuroda",
+    "role": "office_worker",
+    "is_focus": false,
+    "age": 28,
+    "gender": "female",
+    "mbti": "ENFJ",
+    "profile": "Diversity and inclusion coordinator at a multinational in Cerulean Tower. Passionate about building inclusive workplaces.",
+    "initial_location_id": "apt_i",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "akira_sasaki",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "daiki_yamada",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "noriko_hamada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "shingo_kawai",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "cerulean_tower",
+        "noon": "cerulean_tower",
+        "evening": "cerulean_tower",
+        "night": "apt_i"
+      },
+      "Tue": {
+        "morning": "cerulean_tower",
+        "noon": "cafe_streamer",
+        "evening": "cerulean_tower",
+        "night": "apt_i"
+      },
+      "Wed": {
+        "morning": "cerulean_tower",
+        "noon": "cerulean_tower",
+        "evening": "culture_center",
+        "night": "apt_i"
+      },
+      "Thu": {
+        "morning": "cerulean_tower",
+        "noon": "cerulean_tower",
+        "evening": "cerulean_tower",
+        "night": "apt_i"
+      },
+      "Fri": {
+        "morning": "cerulean_tower",
+        "noon": "cerulean_tower",
+        "evening": "izakaya_nonbei",
+        "night": "apt_i"
+      },
+      "Sat": {
+        "morning": "apt_i",
+        "noon": "bunkamura",
+        "evening": "cafe_mameya",
+        "night": "apt_i"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "shibuya_library",
+        "evening": "apt_i",
+        "night": "apt_i"
+      }
+    }
+  },
+  {
+    "display_name": "Chihiro Matsumoto",
+    "role": "shop_staff",
+    "is_focus": false,
+    "age": 25,
+    "gender": "female",
+    "mbti": "ESFP",
+    "profile": "Floor staff at SHIBUYA 109. Lives for fashion trends and dreams of launching her own brand.",
+    "initial_location_id": "apt_j",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "ayaka_nishi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "goro_tanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "megumi_sugiyama",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "saki_morita",
+          "closeness": 18,
+          "trust": 18,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tetsuya_kawano",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_109",
+        "noon": "shibuya_109",
+        "evening": "shibuya_109",
+        "night": "apt_j"
+      },
+      "Tue": {
+        "morning": "apt_j",
+        "noon": "cafe_streamer",
+        "evening": "center_gai",
+        "night": "apt_j"
+      },
+      "Wed": {
+        "morning": "shibuya_109",
+        "noon": "shibuya_109",
+        "evening": "shibuya_109",
+        "night": "apt_j"
+      },
+      "Thu": {
+        "morning": "shibuya_109",
+        "noon": "shibuya_109",
+        "evening": "shibuya_109",
+        "night": "apt_j"
+      },
+      "Fri": {
+        "morning": "apt_j",
+        "noon": "parco",
+        "evening": "izakaya_nonbei",
+        "night": "apt_j"
+      },
+      "Sat": {
+        "morning": "shibuya_109",
+        "noon": "shibuya_109",
+        "evening": "shibuya_109",
+        "night": "apt_j"
+      },
+      "Sun": {
+        "morning": "shibuya_109",
+        "noon": "shibuya_109",
+        "evening": "shibuya_109",
+        "night": "apt_j"
+      }
+    }
+  },
+  {
+    "display_name": "Megumi Sugiyama",
+    "role": "shop_staff",
+    "is_focus": false,
+    "age": 22,
+    "gender": "female",
+    "mbti": "ENFP",
+    "profile": "Part-time barista at Streamer Coffee and fashion school student. Always experimenting with latte art.",
+    "initial_location_id": "apt_j",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "ayaka_nishi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "chihiro_matsumoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "goro_tanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "hinata_suzuki",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ren_takahashi",
+          "closeness": 33,
+          "trust": 28,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "satoshi_kondo",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tetsuya_kawano",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "cafe_streamer",
+        "noon": "cafe_streamer",
+        "evening": "parco",
+        "night": "apt_j"
+      },
+      "Tue": {
+        "morning": "cafe_streamer",
+        "noon": "cafe_streamer",
+        "evening": "cafe_streamer",
+        "night": "apt_j"
+      },
+      "Wed": {
+        "morning": "apt_j",
+        "noon": "shibuya_109",
+        "evening": "center_gai",
+        "night": "apt_j"
+      },
+      "Thu": {
+        "morning": "cafe_streamer",
+        "noon": "cafe_streamer",
+        "evening": "cafe_streamer",
+        "night": "apt_j"
+      },
+      "Fri": {
+        "morning": "cafe_streamer",
+        "noon": "cafe_streamer",
+        "evening": "izakaya_nonbei",
+        "night": "apt_j"
+      },
+      "Sat": {
+        "morning": "apt_j",
+        "noon": "miyashita_park",
+        "evening": "bar_oath",
+        "night": "apt_j"
+      },
+      "Sun": {
+        "morning": "cafe_streamer",
+        "noon": "cafe_streamer",
+        "evening": "cafe_streamer",
+        "night": "apt_j"
+      }
+    }
+  },
+  {
+    "display_name": "Ayaka Nishi",
+    "role": "shop_staff",
+    "is_focus": false,
+    "age": 30,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "profile": "Manager of a cosmetics shop in PARCO. Warm and attentive, she remembers every regular customer's skin type.",
+    "initial_location_id": "apt_j",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "chihiro_matsumoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "emi_goto",
+          "closeness": 23,
+          "trust": 23,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "goro_tanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "megumi_sugiyama",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tetsuya_kawano",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "parco",
+        "noon": "parco",
+        "evening": "parco",
+        "night": "apt_j"
+      },
+      "Tue": {
+        "morning": "parco",
+        "noon": "parco",
+        "evening": "parco",
+        "night": "apt_j"
+      },
+      "Wed": {
+        "morning": "apt_j",
+        "noon": "pharmacy",
+        "evening": "cafe_dogenzaka",
+        "night": "apt_j"
+      },
+      "Thu": {
+        "morning": "parco",
+        "noon": "parco",
+        "evening": "parco",
+        "night": "apt_j"
+      },
+      "Fri": {
+        "morning": "parco",
+        "noon": "parco",
+        "evening": "parco",
+        "night": "apt_j"
+      },
+      "Sat": {
+        "morning": "parco",
+        "noon": "parco",
+        "evening": "parco",
+        "night": "apt_j"
+      },
+      "Sun": {
+        "morning": "apt_j",
+        "noon": "nabeshima_park",
+        "evening": "apt_j",
+        "night": "apt_j"
+      }
+    }
+  },
+  {
+    "display_name": "Hana Noguchi",
+    "role": "shop_staff",
+    "is_focus": false,
+    "age": 28,
+    "gender": "female",
+    "mbti": "ESFP",
+    "profile": "Works at Tower Records and plays bass in an indie band. Her encyclopedic music knowledge impresses customers.",
+    "initial_location_id": "apt_g",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "asuka_honda",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "goro_tanabe",
+          "closeness": 25,
+          "trust": 22,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "koichi_maeda",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "tower_records",
+        "noon": "tower_records",
+        "evening": "tower_records",
+        "night": "apt_g"
+      },
+      "Tue": {
+        "morning": "tower_records",
+        "noon": "tower_records",
+        "evening": "tower_records",
+        "night": "apt_g"
+      },
+      "Wed": {
+        "morning": "apt_g",
+        "noon": "cafe_fuglen",
+        "evening": "miyashita_park",
+        "night": "apt_g"
+      },
+      "Thu": {
+        "morning": "tower_records",
+        "noon": "tower_records",
+        "evening": "tower_records",
+        "night": "apt_g"
+      },
+      "Fri": {
+        "morning": "tower_records",
+        "noon": "tower_records",
+        "evening": "tower_records",
+        "night": "apt_g"
+      },
+      "Sat": {
+        "morning": "tower_records",
+        "noon": "tower_records",
+        "evening": "tower_records",
+        "night": "apt_g"
+      },
+      "Sun": {
+        "morning": "apt_g",
+        "noon": "yoyogi_park",
+        "evening": "izakaya_nonbei",
+        "night": "apt_g"
+      }
+    }
+  },
+  {
+    "display_name": "Emi Goto",
+    "role": "shop_staff",
+    "is_focus": false,
+    "age": 26,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "profile": "Works at a bakery in Tokyu Hands building. Wakes up at 4 AM to bake bread and loves seeing regulars smile.",
+    "initial_location_id": "apt_h",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "ayaka_nishi",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "haruki_nomura",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tetsuya_kawano",
+          "closeness": 20,
+          "trust": 20,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "hands_shibuya",
+        "noon": "hands_shibuya",
+        "evening": "apt_h",
+        "night": "apt_h"
+      },
+      "Tue": {
+        "morning": "hands_shibuya",
+        "noon": "hands_shibuya",
+        "evening": "apt_h",
+        "night": "apt_h"
+      },
+      "Wed": {
+        "morning": "hands_shibuya",
+        "noon": "hands_shibuya",
+        "evening": "apt_h",
+        "night": "apt_h"
+      },
+      "Thu": {
+        "morning": "apt_h",
+        "noon": "cafe_streamer",
+        "evening": "parco",
+        "night": "apt_h"
+      },
+      "Fri": {
+        "morning": "hands_shibuya",
+        "noon": "hands_shibuya",
+        "evening": "apt_h",
+        "night": "apt_h"
+      },
+      "Sat": {
+        "morning": "hands_shibuya",
+        "noon": "hands_shibuya",
+        "evening": "apt_h",
+        "night": "apt_h"
+      },
+      "Sun": {
+        "morning": "apt_h",
+        "noon": "nabeshima_park",
+        "evening": "apt_h",
+        "night": "apt_h"
+      }
+    }
+  },
+  {
+    "display_name": "Goro Tanabe",
+    "role": "shop_owner",
+    "is_focus": false,
+    "age": 58,
+    "gender": "male",
+    "mbti": "ISFJ",
+    "profile": "Runs a ramen shop in Nonbei Yokocho for 25 years. Stubborn about his broth recipe and loved by regulars.",
+    "initial_location_id": "apt_j",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "aoi_nakagawa",
+          "closeness": 18,
+          "trust": 16,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ayaka_nishi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "chihiro_matsumoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "hana_noguchi",
+          "closeness": 23,
+          "trust": 20,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "megumi_sugiyama",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "takeo_kimoto",
+          "closeness": 18,
+          "trust": 16,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tetsuya_kawano",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "izakaya_nonbei",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_j"
+      },
+      "Tue": {
+        "morning": "izakaya_nonbei",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_j"
+      },
+      "Wed": {
+        "morning": "apt_j",
+        "noon": "dogenzaka_market",
+        "evening": "apt_j",
+        "night": "apt_j"
+      },
+      "Thu": {
+        "morning": "izakaya_nonbei",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_j"
+      },
+      "Fri": {
+        "morning": "izakaya_nonbei",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_j"
+      },
+      "Sat": {
+        "morning": "izakaya_nonbei",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_j"
+      },
+      "Sun": {
+        "morning": "apt_j",
+        "noon": "nabeshima_park",
+        "evening": "apt_j",
+        "night": "apt_j"
+      }
+    }
+  },
+  {
+    "display_name": "Tetsuya Kawano",
+    "role": "shop_owner",
+    "is_focus": false,
+    "age": 46,
+    "gender": "male",
+    "mbti": "ISTP",
+    "profile": "Owner of a vinyl record shop on Center-gai. Quiet and methodical, he curates rare finds from around the world.",
+    "initial_location_id": "apt_j",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "ayaka_nishi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "chihiro_matsumoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "emi_goto",
+          "closeness": 18,
+          "trust": 18,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "goro_tanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "megumi_sugiyama",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "center_gai",
+        "noon": "center_gai",
+        "evening": "center_gai",
+        "night": "apt_j"
+      },
+      "Tue": {
+        "morning": "center_gai",
+        "noon": "center_gai",
+        "evening": "center_gai",
+        "night": "apt_j"
+      },
+      "Wed": {
+        "morning": "center_gai",
+        "noon": "center_gai",
+        "evening": "center_gai",
+        "night": "apt_j"
+      },
+      "Thu": {
+        "morning": "apt_j",
+        "noon": "tower_records",
+        "evening": "apt_j",
+        "night": "apt_j"
+      },
+      "Fri": {
+        "morning": "center_gai",
+        "noon": "center_gai",
+        "evening": "center_gai",
+        "night": "apt_j"
+      },
+      "Sat": {
+        "morning": "center_gai",
+        "noon": "center_gai",
+        "evening": "center_gai",
+        "night": "apt_j"
+      },
+      "Sun": {
+        "morning": "apt_j",
+        "noon": "yoyogi_park",
+        "evening": "apt_j",
+        "night": "apt_j"
+      }
+    }
+  },
+  {
+    "display_name": "Asuka Honda",
+    "role": "shop_owner",
+    "is_focus": false,
+    "age": 41,
+    "gender": "female",
+    "mbti": "ENTJ",
+    "profile": "Owns a popular curry restaurant on Dogenzaka. Ambitious and strategic, she plans to open a second location.",
+    "initial_location_id": "apt_g",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "hana_noguchi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "koichi_maeda",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "curry_moyan",
+        "noon": "curry_moyan",
+        "evening": "curry_moyan",
+        "night": "apt_g"
+      },
+      "Tue": {
+        "morning": "curry_moyan",
+        "noon": "curry_moyan",
+        "evening": "curry_moyan",
+        "night": "apt_g"
+      },
+      "Wed": {
+        "morning": "dogenzaka_market",
+        "noon": "curry_moyan",
+        "evening": "curry_moyan",
+        "night": "apt_g"
+      },
+      "Thu": {
+        "morning": "curry_moyan",
+        "noon": "curry_moyan",
+        "evening": "curry_moyan",
+        "night": "apt_g"
+      },
+      "Fri": {
+        "morning": "curry_moyan",
+        "noon": "curry_moyan",
+        "evening": "curry_moyan",
+        "night": "apt_g"
+      },
+      "Sat": {
+        "morning": "curry_moyan",
+        "noon": "curry_moyan",
+        "evening": "curry_moyan",
+        "night": "apt_g"
+      },
+      "Sun": {
+        "morning": "apt_g",
+        "noon": "apt_g",
+        "evening": "apt_g",
+        "night": "apt_g"
+      }
+    }
+  },
+  {
+    "display_name": "Koichi Maeda",
+    "role": "shop_owner",
+    "is_focus": false,
+    "age": 55,
+    "gender": "male",
+    "mbti": "ISFJ",
+    "profile": "Runs a traditional yakitori stand in Nonbei Yokocho. Warm and hospitable, he treats every customer like an old friend.",
+    "initial_location_id": "apt_g",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "asuka_honda",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "hana_noguchi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sachiko_watanabe",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "dogenzaka_market",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_g"
+      },
+      "Tue": {
+        "morning": "dogenzaka_market",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_g"
+      },
+      "Wed": {
+        "morning": "apt_g",
+        "noon": "apt_g",
+        "evening": "apt_g",
+        "night": "apt_g"
+      },
+      "Thu": {
+        "morning": "dogenzaka_market",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_g"
+      },
+      "Fri": {
+        "morning": "dogenzaka_market",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_g"
+      },
+      "Sat": {
+        "morning": "dogenzaka_market",
+        "noon": "izakaya_nonbei",
+        "evening": "izakaya_nonbei",
+        "night": "apt_g"
+      },
+      "Sun": {
+        "morning": "apt_g",
+        "noon": "nabeshima_park",
+        "evening": "apt_g",
+        "night": "apt_g"
+      }
+    }
+  },
+  {
+    "display_name": "Fumiko Watanabe",
+    "role": "freelance_designer",
+    "is_focus": false,
+    "age": 36,
+    "gender": "female",
+    "mbti": "INFP",
+    "profile": "Freelance graphic designer who left a big agency to go solo. Works from cafes and draws inspiration from Shibuya street culture.",
+    "initial_location_id": "apt_k",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "hinata_suzuki",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kosuke_hayashi",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "makoto_sawada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "masato_fujimoto",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sachiko_watanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "cafe_streamer",
+        "noon": "cafe_streamer",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Tue": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "bunkamura",
+        "night": "apt_k"
+      },
+      "Wed": {
+        "morning": "cafe_mameya",
+        "noon": "cafe_mameya",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Thu": {
+        "morning": "shibuya_cast",
+        "noon": "cafe_streamer",
+        "evening": "miyashita_park",
+        "night": "apt_k"
+      },
+      "Fri": {
+        "morning": "cafe_fuglen",
+        "noon": "cafe_fuglen",
+        "evening": "izakaya_nonbei",
+        "night": "apt_k"
+      },
+      "Sat": {
+        "morning": "apt_k",
+        "noon": "parco",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "cafe_mameya",
+        "evening": "apt_k",
+        "night": "apt_k"
+      }
+    }
+  },
+  {
+    "display_name": "Kosuke Hayashi",
+    "role": "freelance_writer",
+    "is_focus": false,
+    "age": 33,
+    "gender": "male",
+    "mbti": "INTP",
+    "profile": "Freelance tech journalist who covers the Shibuya startup scene. Quiet observer who writes sharp long-form pieces.",
+    "initial_location_id": "apt_k",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "fumiko_watanabe",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "hinata_suzuki",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "makoto_sawada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "masato_fujimoto",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sachiko_watanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "cafe_mameya",
+        "noon": "shibuya_cast",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Tue": {
+        "morning": "cafe_fuglen",
+        "noon": "cafe_fuglen",
+        "evening": "shibuya_library",
+        "night": "apt_k"
+      },
+      "Wed": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "cafe_streamer",
+        "night": "apt_k"
+      },
+      "Thu": {
+        "morning": "cafe_mameya",
+        "noon": "cafe_mameya",
+        "evening": "izakaya_nonbei",
+        "night": "apt_k"
+      },
+      "Fri": {
+        "morning": "shibuya_cast",
+        "noon": "ramen_nagi",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Sat": {
+        "morning": "apt_k",
+        "noon": "shibuya_library",
+        "evening": "bar_oath",
+        "night": "apt_k"
+      },
+      "Sun": {
+        "morning": "apt_k",
+        "noon": "nabeshima_park",
+        "evening": "apt_k",
+        "night": "apt_k"
+      }
+    }
+  },
+  {
+    "display_name": "Hinata Suzuki",
+    "role": "freelance_illustrator",
+    "is_focus": false,
+    "age": 27,
+    "gender": "female",
+    "mbti": "ISFP",
+    "profile": "Freelance illustrator who draws whimsical characters for picture books. Finds inspiration wandering Daikanyama's quiet streets.",
+    "initial_location_id": "apt_l",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "fumiko_watanabe",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "gen_harada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kosuke_hayashi",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "masato_fujimoto",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "megumi_sugiyama",
+          "closeness": 23,
+          "trust": 23,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "satoshi_kondo",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "cafe_fuglen",
+        "noon": "cafe_fuglen",
+        "evening": "apt_l",
+        "night": "apt_l"
+      },
+      "Tue": {
+        "morning": "shibuya_cast",
+        "noon": "cafe_streamer",
+        "evening": "apt_l",
+        "night": "apt_l"
+      },
+      "Wed": {
+        "morning": "cafe_mameya",
+        "noon": "cafe_mameya",
+        "evening": "shibuya_library",
+        "night": "apt_l"
+      },
+      "Thu": {
+        "morning": "apt_l",
+        "noon": "nabeshima_park",
+        "evening": "bunkamura",
+        "night": "apt_l"
+      },
+      "Fri": {
+        "morning": "cafe_fuglen",
+        "noon": "cafe_fuglen",
+        "evening": "apt_l",
+        "night": "apt_l"
+      },
+      "Sat": {
+        "morning": "yoyogi_park",
+        "noon": "parco",
+        "evening": "apt_l",
+        "night": "apt_l"
+      },
+      "Sun": {
+        "morning": "apt_l",
+        "noon": "apt_l",
+        "evening": "apt_l",
+        "night": "apt_l"
+      }
+    }
+  },
+  {
+    "display_name": "Satoshi Kondo",
+    "role": "freelance_musician",
+    "is_focus": false,
+    "age": 35,
+    "gender": "male",
+    "mbti": "ENFP",
+    "profile": "Session guitarist who plays at live houses around Shibuya. Easygoing and well-connected in the local music scene.",
+    "initial_location_id": "apt_l",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "gen_harada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "hinata_suzuki",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "masato_fujimoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "megumi_sugiyama",
+          "closeness": 23,
+          "trust": 23,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "apt_l",
+        "noon": "tower_records",
+        "evening": "nhk_hall",
+        "night": "apt_l"
+      },
+      "Tue": {
+        "morning": "cafe_streamer",
+        "noon": "cafe_streamer",
+        "evening": "apt_l",
+        "night": "apt_l"
+      },
+      "Wed": {
+        "morning": "apt_l",
+        "noon": "apt_l",
+        "evening": "izakaya_nonbei",
+        "night": "apt_l"
+      },
+      "Thu": {
+        "morning": "cafe_fuglen",
+        "noon": "tower_records",
+        "evening": "nhk_hall",
+        "night": "apt_l"
+      },
+      "Fri": {
+        "morning": "apt_l",
+        "noon": "apt_l",
+        "evening": "bar_oath",
+        "night": "apt_l"
+      },
+      "Sat": {
+        "morning": "apt_l",
+        "noon": "miyashita_park",
+        "evening": "nhk_hall",
+        "night": "apt_l"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "cafe_mameya",
+        "evening": "apt_l",
+        "night": "apt_l"
+      }
+    }
+  },
+  {
+    "display_name": "Masato Fujimoto",
+    "role": "freelance_videographer",
+    "is_focus": false,
+    "age": 29,
+    "gender": "male",
+    "mbti": "ISTP",
+    "profile": "Freelance videographer who shoots music videos and brand content. Quiet on set but his edits speak volumes.",
+    "initial_location_id": "apt_l",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "fumiko_watanabe",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "gen_harada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "hinata_suzuki",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kosuke_hayashi",
+          "closeness": 35,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "satoshi_kondo",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "apt_l",
+        "night": "apt_l"
+      },
+      "Tue": {
+        "morning": "shibuya_station",
+        "noon": "cafe_streamer",
+        "evening": "shibuya_cast",
+        "night": "apt_l"
+      },
+      "Wed": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "izakaya_nonbei",
+        "night": "apt_l"
+      },
+      "Thu": {
+        "morning": "miyashita_park",
+        "noon": "cafe_mameya",
+        "evening": "shibuya_cast",
+        "night": "apt_l"
+      },
+      "Fri": {
+        "morning": "shibuya_cast",
+        "noon": "shibuya_cast",
+        "evening": "bar_oath",
+        "night": "apt_l"
+      },
+      "Sat": {
+        "morning": "yoyogi_park",
+        "noon": "shibuya_station",
+        "evening": "apt_l",
+        "night": "apt_l"
+      },
+      "Sun": {
+        "morning": "apt_l",
+        "noon": "apt_l",
+        "evening": "apt_l",
+        "night": "apt_l"
+      }
+    }
+  },
+  {
+    "display_name": "Naomi Okamoto",
+    "role": "student",
+    "is_focus": false,
+    "age": 20,
+    "gender": "female",
+    "mbti": "ENFP",
+    "profile": "University student studying sociology. Activist for local community issues and volunteers at the culture center on weekends.",
+    "initial_location_id": "apt_m",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "kanako_hirata",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sayuri_miura",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "takumi_endo",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yoshiko_nakajima",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuji_hirano",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "cafe_streamer",
+        "night": "apt_m"
+      },
+      "Tue": {
+        "morning": "shibuya_library",
+        "noon": "cafe_streamer",
+        "evening": "culture_center",
+        "night": "apt_m"
+      },
+      "Wed": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "cafe_mameya",
+        "night": "apt_m"
+      },
+      "Thu": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "shibuya_library",
+        "night": "apt_m"
+      },
+      "Fri": {
+        "morning": "shibuya_library",
+        "noon": "ramen_nagi",
+        "evening": "center_gai",
+        "night": "apt_m"
+      },
+      "Sat": {
+        "morning": "culture_center",
+        "noon": "culture_center",
+        "evening": "miyashita_park",
+        "night": "apt_m"
+      },
+      "Sun": {
+        "morning": "apt_m",
+        "noon": "yoyogi_park",
+        "evening": "apt_m",
+        "night": "apt_m"
+      }
+    }
+  },
+  {
+    "display_name": "Yuji Hirano",
+    "role": "student",
+    "is_focus": false,
+    "age": 21,
+    "gender": "male",
+    "mbti": "ESTP",
+    "profile": "Business school student who works part-time at a convenience store. Aspires to launch his own streetwear brand.",
+    "initial_location_id": "apt_m",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "kanako_hirata",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "naomi_okamoto",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sayuri_miura",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "takumi_endo",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yoshiko_nakajima",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "convenience_store",
+        "night": "apt_m"
+      },
+      "Tue": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "shibuya_library",
+        "night": "apt_m"
+      },
+      "Wed": {
+        "morning": "shibuya_library",
+        "noon": "ramen_nagi",
+        "evening": "convenience_store",
+        "night": "apt_m"
+      },
+      "Thu": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "convenience_store",
+        "night": "apt_m"
+      },
+      "Fri": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "center_gai",
+        "night": "apt_m"
+      },
+      "Sat": {
+        "morning": "convenience_store",
+        "noon": "convenience_store",
+        "evening": "miyashita_park",
+        "night": "apt_m"
+      },
+      "Sun": {
+        "morning": "apt_m",
+        "noon": "fitness_gym",
+        "evening": "apt_m",
+        "night": "apt_m"
+      }
+    }
+  },
+  {
+    "display_name": "Sayuri Miura",
+    "role": "student",
+    "is_focus": false,
+    "age": 19,
+    "gender": "female",
+    "mbti": "INFJ",
+    "profile": "Art school student specializing in textile design. Introspective and deeply empathetic, she journals every night.",
+    "initial_location_id": "apt_m",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "kanako_hirata",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "naomi_okamoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuji_hirano",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "culture_center",
+        "noon": "culture_center",
+        "evening": "cafe_fuglen",
+        "night": "apt_m"
+      },
+      "Tue": {
+        "morning": "culture_center",
+        "noon": "culture_center",
+        "evening": "culture_center",
+        "night": "apt_m"
+      },
+      "Wed": {
+        "morning": "culture_center",
+        "noon": "cafe_dogenzaka",
+        "evening": "parco",
+        "night": "apt_m"
+      },
+      "Thu": {
+        "morning": "culture_center",
+        "noon": "culture_center",
+        "evening": "culture_center",
+        "night": "apt_m"
+      },
+      "Fri": {
+        "morning": "culture_center",
+        "noon": "culture_center",
+        "evening": "shibuya_109",
+        "night": "apt_m"
+      },
+      "Sat": {
+        "morning": "apt_m",
+        "noon": "yoyogi_park",
+        "evening": "cafe_mameya",
+        "night": "apt_m"
+      },
+      "Sun": {
+        "morning": "apt_m",
+        "noon": "meiji_shrine",
+        "evening": "apt_m",
+        "night": "apt_m"
+      }
+    }
+  },
+  {
+    "display_name": "Takumi Endo",
+    "role": "student",
+    "is_focus": false,
+    "age": 23,
+    "gender": "male",
+    "mbti": "ISTP",
+    "profile": "Vocational school student studying culinary arts. Quiet and focused, he stages at restaurants on weekends.",
+    "initial_location_id": "apt_n",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "kanako_hirata",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "naomi_okamoto",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuji_hirano",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "family_restaurant",
+        "noon": "family_restaurant",
+        "evening": "ramen_nagi",
+        "night": "apt_n"
+      },
+      "Tue": {
+        "morning": "family_restaurant",
+        "noon": "family_restaurant",
+        "evening": "family_restaurant",
+        "night": "apt_n"
+      },
+      "Wed": {
+        "morning": "family_restaurant",
+        "noon": "family_restaurant",
+        "evening": "family_restaurant",
+        "night": "apt_n"
+      },
+      "Thu": {
+        "morning": "apt_n",
+        "noon": "dogenzaka_market",
+        "evening": "apt_n",
+        "night": "apt_n"
+      },
+      "Fri": {
+        "morning": "family_restaurant",
+        "noon": "family_restaurant",
+        "evening": "family_restaurant",
+        "night": "apt_n"
+      },
+      "Sat": {
+        "morning": "sushi_midori",
+        "noon": "sushi_midori",
+        "evening": "izakaya_nonbei",
+        "night": "apt_n"
+      },
+      "Sun": {
+        "morning": "apt_n",
+        "noon": "cafe_streamer",
+        "evening": "apt_n",
+        "night": "apt_n"
+      }
+    }
+  },
+  {
+    "display_name": "Kanako Hirata",
+    "role": "student",
+    "is_focus": false,
+    "age": 20,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "profile": "Nursing student who volunteers at the local clinic on weekends. Caring and organized, everyone depends on her.",
+    "initial_location_id": "apt_n",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "naomi_okamoto",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "noriko_hamada",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sayuri_miura",
+          "closeness": 28,
+          "trust": 28,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "takumi_endo",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuji_hirano",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "shibuya_library",
+        "night": "apt_n"
+      },
+      "Tue": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "shibuya_clinic",
+        "night": "apt_n"
+      },
+      "Wed": {
+        "morning": "shibuya_clinic",
+        "noon": "cafe_dogenzaka",
+        "evening": "shibuya_library",
+        "night": "apt_n"
+      },
+      "Thu": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "shibuya_clinic",
+        "night": "apt_n"
+      },
+      "Fri": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "family_restaurant",
+        "night": "apt_n"
+      },
+      "Sat": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "apt_n",
+        "night": "apt_n"
+      },
+      "Sun": {
+        "morning": "apt_n",
+        "noon": "yoyogi_park",
+        "evening": "apt_n",
+        "night": "apt_n"
+      }
+    }
+  },
+  {
+    "display_name": "Noriko Hamada",
+    "role": "nurse",
+    "is_focus": false,
+    "age": 45,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "profile": "Head nurse at Shibuya Clinic. Compassionate and tireless, she has been serving the community for 18 years.",
+    "initial_location_id": "apt_i",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "akira_sasaki",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kanako_hirata",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "manami_kuroda",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "miyuki_doi",
+          "closeness": 35,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "shingo_kawai",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "shibuya_clinic",
+        "night": "apt_i"
+      },
+      "Tue": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "shibuya_clinic",
+        "night": "apt_i"
+      },
+      "Wed": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "apt_i",
+        "night": "apt_i"
+      },
+      "Thu": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "shibuya_clinic",
+        "night": "apt_i"
+      },
+      "Fri": {
+        "morning": "shibuya_clinic",
+        "noon": "shibuya_clinic",
+        "evening": "shibuya_clinic",
+        "night": "apt_i"
+      },
+      "Sat": {
+        "morning": "apt_i",
+        "noon": "dogenzaka_market",
+        "evening": "apt_i",
+        "night": "apt_i"
+      },
+      "Sun": {
+        "morning": "meiji_shrine",
+        "noon": "apt_i",
+        "evening": "apt_i",
+        "night": "apt_i"
+      }
+    }
+  },
+  {
+    "display_name": "Miyuki Doi",
+    "role": "dentist",
+    "is_focus": false,
+    "age": 40,
+    "gender": "female",
+    "mbti": "ISTJ",
+    "profile": "Dentist running a small practice on Aoyama-dori. Precise and caring, she explains every procedure in detail.",
+    "initial_location_id": "apt_o",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "kenichi_morimoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "noriko_hamada",
+          "closeness": 33,
+          "trust": 38,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "takeo_kimoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "dental_clinic",
+        "noon": "dental_clinic",
+        "evening": "dental_clinic",
+        "night": "apt_o"
+      },
+      "Tue": {
+        "morning": "dental_clinic",
+        "noon": "dental_clinic",
+        "evening": "dental_clinic",
+        "night": "apt_o"
+      },
+      "Wed": {
+        "morning": "dental_clinic",
+        "noon": "dental_clinic",
+        "evening": "apt_o",
+        "night": "apt_o"
+      },
+      "Thu": {
+        "morning": "dental_clinic",
+        "noon": "dental_clinic",
+        "evening": "dental_clinic",
+        "night": "apt_o"
+      },
+      "Fri": {
+        "morning": "dental_clinic",
+        "noon": "dental_clinic",
+        "evening": "dental_clinic",
+        "night": "apt_o"
+      },
+      "Sat": {
+        "morning": "dental_clinic",
+        "noon": "dental_clinic",
+        "evening": "apt_o",
+        "night": "apt_o"
+      },
+      "Sun": {
+        "morning": "apt_o",
+        "noon": "nabeshima_park",
+        "evening": "apt_o",
+        "night": "apt_o"
+      }
+    }
+  },
+  {
+    "display_name": "Kenichi Morimoto",
+    "role": "city_employee",
+    "is_focus": false,
+    "age": 49,
+    "gender": "male",
+    "mbti": "ESTJ",
+    "profile": "Section chief at Shibuya City Office handling urban planning permits. Bureaucratic but fair-minded.",
+    "initial_location_id": "apt_o",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "miyuki_doi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "shingo_kawai",
+          "closeness": 30,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "takeo_kimoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "city_office",
+        "noon": "city_office",
+        "evening": "city_office",
+        "night": "apt_o"
+      },
+      "Tue": {
+        "morning": "city_office",
+        "noon": "ramen_nagi",
+        "evening": "city_office",
+        "night": "apt_o"
+      },
+      "Wed": {
+        "morning": "city_office",
+        "noon": "city_office",
+        "evening": "city_office",
+        "night": "apt_o"
+      },
+      "Thu": {
+        "morning": "city_office",
+        "noon": "city_office",
+        "evening": "city_office",
+        "night": "apt_o"
+      },
+      "Fri": {
+        "morning": "city_office",
+        "noon": "city_office",
+        "evening": "izakaya_nonbei",
+        "night": "apt_o"
+      },
+      "Sat": {
+        "morning": "apt_o",
+        "noon": "apt_o",
+        "evening": "apt_o",
+        "night": "apt_o"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "apt_o",
+        "evening": "apt_o",
+        "night": "apt_o"
+      }
+    }
+  },
+  {
+    "display_name": "Shingo Kawai",
+    "role": "firefighter",
+    "is_focus": false,
+    "age": 36,
+    "gender": "male",
+    "mbti": "ISTJ",
+    "profile": "Firefighter at Shibuya Fire Station. Disciplined and brave, he coaches the local youth baseball team on days off.",
+    "initial_location_id": "apt_i",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "akira_sasaki",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kenichi_morimoto",
+          "closeness": 28,
+          "trust": 33,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "manami_kuroda",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "noriko_hamada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "fire_station",
+        "noon": "fire_station",
+        "evening": "fire_station",
+        "night": "apt_i"
+      },
+      "Tue": {
+        "morning": "fire_station",
+        "noon": "fire_station",
+        "evening": "fire_station",
+        "night": "apt_i"
+      },
+      "Wed": {
+        "morning": "apt_i",
+        "noon": "yoyogi_park",
+        "evening": "fitness_gym",
+        "night": "apt_i"
+      },
+      "Thu": {
+        "morning": "fire_station",
+        "noon": "fire_station",
+        "evening": "fire_station",
+        "night": "apt_i"
+      },
+      "Fri": {
+        "morning": "fire_station",
+        "noon": "ramen_nagi",
+        "evening": "fire_station",
+        "night": "apt_i"
+      },
+      "Sat": {
+        "morning": "apt_i",
+        "noon": "yoyogi_park",
+        "evening": "izakaya_nonbei",
+        "night": "apt_i"
+      },
+      "Sun": {
+        "morning": "apt_i",
+        "noon": "apt_i",
+        "evening": "apt_i",
+        "night": "apt_i"
+      }
+    }
+  },
+  {
+    "display_name": "Haruki Nomura",
+    "role": "bartender",
+    "is_focus": false,
+    "age": 33,
+    "gender": "male",
+    "mbti": "ENFJ",
+    "profile": "Head bartender at Bar OATH. Charismatic listener who makes every guest feel like the most important person in the room.",
+    "initial_location_id": "apt_h",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "aoi_nakagawa",
+          "closeness": 28,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "emi_goto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "mei_fujita",
+          "closeness": 28,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ren_takahashi",
+          "closeness": 28,
+          "trust": 24,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "apt_h",
+        "noon": "cafe_streamer",
+        "evening": "bar_oath",
+        "night": "apt_h"
+      },
+      "Tue": {
+        "morning": "apt_h",
+        "noon": "apt_p",
+        "evening": "bar_oath",
+        "night": "apt_h"
+      },
+      "Wed": {
+        "morning": "apt_h",
+        "noon": "fitness_gym",
+        "evening": "bar_oath",
+        "night": "apt_h"
+      },
+      "Thu": {
+        "morning": "apt_h",
+        "noon": "cafe_mameya",
+        "evening": "bar_oath",
+        "night": "apt_h"
+      },
+      "Fri": {
+        "morning": "apt_h",
+        "noon": "apt_p",
+        "evening": "bar_oath",
+        "night": "apt_h"
+      },
+      "Sat": {
+        "morning": "apt_h",
+        "noon": "yoyogi_park",
+        "evening": "bar_oath",
+        "night": "apt_h"
+      },
+      "Sun": {
+        "morning": "apt_h",
+        "noon": "apt_p",
+        "evening": "apt_p",
+        "night": "apt_h"
+      }
+    }
+  },
+  {
+    "display_name": "Yoshiko Nakajima",
+    "role": "retired",
+    "is_focus": false,
+    "age": 68,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "profile": "Retired school teacher who now volunteers at the library. Gentle and beloved by the neighborhood children.",
+    "initial_location_id": "apt_q",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "naomi_okamoto",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sachiko_watanabe",
+          "closeness": 30,
+          "trust": 35,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tsuyoshi_mori",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yuji_hirano",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Tue": {
+        "morning": "apt_q",
+        "noon": "nabeshima_park",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Wed": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Thu": {
+        "morning": "apt_q",
+        "noon": "dogenzaka_market",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Fri": {
+        "morning": "shibuya_library",
+        "noon": "shibuya_library",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Sat": {
+        "morning": "apt_q",
+        "noon": "meiji_shrine",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Sun": {
+        "morning": "apt_q",
+        "noon": "miyashita_park",
+        "evening": "apt_q",
+        "night": "apt_q"
+      }
+    }
+  },
+  {
+    "display_name": "Tsuyoshi Mori",
+    "role": "retired",
+    "is_focus": false,
+    "age": 72,
+    "gender": "male",
+    "mbti": "ISTJ",
+    "profile": "Retired postal worker who walks the same route every morning. Knows every shopkeeper in the neighborhood by name.",
+    "initial_location_id": "apt_q",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "makoto_sawada",
+          "closeness": 25,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yoshiko_nakajima",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "miyashita_park",
+        "noon": "cafe_dogenzaka",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Tue": {
+        "morning": "nabeshima_park",
+        "noon": "apt_q",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Wed": {
+        "morning": "miyashita_park",
+        "noon": "shibuya_library",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Thu": {
+        "morning": "yoyogi_park",
+        "noon": "cafe_dogenzaka",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Fri": {
+        "morning": "miyashita_park",
+        "noon": "post_office",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Sat": {
+        "morning": "nabeshima_park",
+        "noon": "apt_q",
+        "evening": "apt_q",
+        "night": "apt_q"
+      },
+      "Sun": {
+        "morning": "meiji_shrine",
+        "noon": "apt_q",
+        "evening": "apt_q",
+        "night": "apt_q"
+      }
+    }
+  },
+  {
+    "display_name": "Sachiko Watanabe",
+    "role": "homemaker",
+    "is_focus": false,
+    "age": 54,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "profile": "Full-time homemaker who supports her husband and two adult children. Active in the PTA alumni network and local cooking circles.",
+    "initial_location_id": "apt_k",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "fumiko_watanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "koichi_maeda",
+          "closeness": 40,
+          "trust": 40,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kosuke_hayashi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "makoto_sawada",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "yoshiko_nakajima",
+          "closeness": 28,
+          "trust": 33,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "dogenzaka_market",
+        "noon": "apt_k",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Tue": {
+        "morning": "culture_center",
+        "noon": "apt_k",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Wed": {
+        "morning": "dogenzaka_market",
+        "noon": "apt_k",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Thu": {
+        "morning": "apt_k",
+        "noon": "nabeshima_park",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Fri": {
+        "morning": "dogenzaka_market",
+        "noon": "shibuya_clinic",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Sat": {
+        "morning": "apt_k",
+        "noon": "miyashita_park",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Sun": {
+        "morning": "meiji_shrine",
+        "noon": "apt_k",
+        "evening": "apt_k",
+        "night": "apt_k"
+      }
+    }
+  },
+  {
+    "display_name": "Makoto Sawada",
+    "role": "retired",
+    "is_focus": false,
+    "age": 67,
+    "gender": "male",
+    "mbti": "ENTJ",
+    "profile": "Retired company president who now mentors young entrepreneurs at the tech hub. Still sharp and direct in his advice.",
+    "initial_location_id": "apt_k",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "fumiko_watanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kosuke_hayashi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "sachiko_watanabe",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "tsuyoshi_mori",
+          "closeness": 23,
+          "trust": 23,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "shibuya_cast",
+        "noon": "cafe_mameya",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Tue": {
+        "morning": "apt_k",
+        "noon": "nabeshima_park",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Wed": {
+        "morning": "shibuya_cast",
+        "noon": "ramen_nagi",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Thu": {
+        "morning": "apt_k",
+        "noon": "shibuya_library",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Fri": {
+        "morning": "shibuya_cast",
+        "noon": "cafe_streamer",
+        "evening": "izakaya_nonbei",
+        "night": "apt_k"
+      },
+      "Sat": {
+        "morning": "yoyogi_park",
+        "noon": "apt_k",
+        "evening": "apt_k",
+        "night": "apt_k"
+      },
+      "Sun": {
+        "morning": "meiji_shrine",
+        "noon": "apt_k",
+        "evening": "apt_k",
+        "night": "apt_k"
+      }
+    }
+  },
+  {
+    "display_name": "Ryuji Matsuo",
+    "role": "personal_trainer",
+    "is_focus": false,
+    "age": 35,
+    "gender": "male",
+    "mbti": "ESTP",
+    "profile": "Personal trainer at Gold's Gym. Competitive bodybuilder who motivates clients with infectious energy.",
+    "initial_location_id": "apt_d",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "akira_sasaki",
+          "closeness": 30,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "daiki_yamada",
+          "closeness": 30,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "honoka_yoshida",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "misaki_takagi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "ren_takahashi",
+          "closeness": 23,
+          "trust": 18,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "shota_nakamura",
+          "closeness": 30,
+          "trust": 25,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "fitness_gym",
+        "noon": "fitness_gym",
+        "evening": "fitness_gym",
+        "night": "apt_d"
+      },
+      "Tue": {
+        "morning": "fitness_gym",
+        "noon": "ramen_nagi",
+        "evening": "fitness_gym",
+        "night": "apt_d"
+      },
+      "Wed": {
+        "morning": "fitness_gym",
+        "noon": "fitness_gym",
+        "evening": "fitness_gym",
+        "night": "apt_d"
+      },
+      "Thu": {
+        "morning": "apt_d",
+        "noon": "yoyogi_park",
+        "evening": "fitness_gym",
+        "night": "apt_d"
+      },
+      "Fri": {
+        "morning": "fitness_gym",
+        "noon": "fitness_gym",
+        "evening": "fitness_gym",
+        "night": "apt_d"
+      },
+      "Sat": {
+        "morning": "fitness_gym",
+        "noon": "fitness_gym",
+        "evening": "izakaya_nonbei",
+        "night": "apt_d"
+      },
+      "Sun": {
+        "morning": "yoyogi_park",
+        "noon": "cafe_streamer",
+        "evening": "apt_d",
+        "night": "apt_d"
+      }
+    }
+  },
+  {
+    "display_name": "Gen Harada",
+    "role": "chef",
+    "is_focus": false,
+    "age": 43,
+    "gender": "male",
+    "mbti": "ISFP",
+    "profile": "Head chef at Sushi no Midori. Trained in Tsukiji and dedicated to sourcing the freshest fish every morning.",
+    "initial_location_id": "apt_l",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "daiki_yamada",
+          "closeness": 25,
+          "trust": 20,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "hinata_suzuki",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kenji_sato",
+          "closeness": 25,
+          "trust": 20,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "masato_fujimoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "satoshi_kondo",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "sushi_midori",
+        "noon": "sushi_midori",
+        "evening": "sushi_midori",
+        "night": "apt_l"
+      },
+      "Tue": {
+        "morning": "sushi_midori",
+        "noon": "sushi_midori",
+        "evening": "sushi_midori",
+        "night": "apt_l"
+      },
+      "Wed": {
+        "morning": "apt_l",
+        "noon": "dogenzaka_market",
+        "evening": "apt_l",
+        "night": "apt_l"
+      },
+      "Thu": {
+        "morning": "sushi_midori",
+        "noon": "sushi_midori",
+        "evening": "sushi_midori",
+        "night": "apt_l"
+      },
+      "Fri": {
+        "morning": "sushi_midori",
+        "noon": "sushi_midori",
+        "evening": "sushi_midori",
+        "night": "apt_l"
+      },
+      "Sat": {
+        "morning": "sushi_midori",
+        "noon": "sushi_midori",
+        "evening": "sushi_midori",
+        "night": "apt_l"
+      },
+      "Sun": {
+        "morning": "apt_l",
+        "noon": "nabeshima_park",
+        "evening": "apt_l",
+        "night": "apt_l"
+      }
+    }
+  },
+  {
+    "display_name": "Takeo Kimoto",
+    "role": "building_manager",
+    "is_focus": false,
+    "age": 57,
+    "gender": "male",
+    "mbti": "ESFP",
+    "profile": "Building superintendent managing several apartment blocks. Sociable handyman who knows every tenant's name and complaint.",
+    "initial_location_id": "apt_o",
+    "initial_state": {
+      "relationships": [
+        {
+          "actor_id": "goro_tanabe",
+          "closeness": 20,
+          "trust": 18,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "kenichi_morimoto",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        },
+        {
+          "actor_id": "miyuki_doi",
+          "closeness": 30,
+          "trust": 30,
+          "tension": 0,
+          "last_interaction_day": 0
+        }
+      ]
+    },
+    "schedule": {
+      "Mon": {
+        "morning": "apt_a",
+        "noon": "apt_b",
+        "evening": "apt_c",
+        "night": "apt_o"
+      },
+      "Tue": {
+        "morning": "apt_d",
+        "noon": "apt_e",
+        "evening": "apt_f",
+        "night": "apt_o"
+      },
+      "Wed": {
+        "morning": "apt_g",
+        "noon": "convenience_store",
+        "evening": "apt_h",
+        "night": "apt_o"
+      },
+      "Thu": {
+        "morning": "apt_i",
+        "noon": "apt_j",
+        "evening": "apt_k",
+        "night": "apt_o"
+      },
+      "Fri": {
+        "morning": "apt_l",
+        "noon": "apt_m",
+        "evening": "izakaya_nonbei",
+        "night": "apt_o"
+      },
+      "Sat": {
+        "morning": "apt_o",
+        "noon": "dogenzaka_market",
+        "evening": "apt_o",
+        "night": "apt_o"
+      },
+      "Sun": {
+        "morning": "apt_o",
+        "noon": "yoyogi_park",
+        "evening": "apt_o",
+        "night": "apt_o"
+      }
+    }
+  }
+]

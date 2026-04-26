@@ -1,0 +1,848 @@
+[
+  {
+    "id": "shibuya_station",
+    "display_name": "Shibuya Station",
+    "description": "Major transit hub connecting JR, Metro, Tokyu, and Keio lines. Constant flow of commuters.",
+    "kind": "flat",
+    "position": {
+      "x": 0,
+      "z": 0
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "bus_terminal",
+    "display_name": "Shibuya Bus Terminal",
+    "description": "Long-distance and local bus terminal adjacent to the station.",
+    "kind": "flat",
+    "position": {
+      "x": 78,
+      "z": 104
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "hikarie",
+    "display_name": "Shibuya Hikarie",
+    "description": "34-floor mixed-use skyscraper with offices, shops, and a theater.",
+    "kind": "tall",
+    "position": {
+      "x": 208,
+      "z": -52
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "scramble_square",
+    "display_name": "Shibuya Scramble Square",
+    "description": "The tallest building in Shibuya with rooftop observation deck SHIBUYA SKY.",
+    "kind": "tall",
+    "position": {
+      "x": 92,
+      "z": -29
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "stream",
+    "display_name": "Shibuya Stream",
+    "description": "Office and commercial complex along the Shibuya River with open terraces.",
+    "kind": "tall",
+    "position": {
+      "x": 260,
+      "z": 104
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "mark_city",
+    "display_name": "Shibuya Mark City",
+    "description": "Large commercial complex directly connected to the station on the west side.",
+    "kind": "tall",
+    "position": {
+      "x": -106,
+      "z": 41
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "cerulean_tower",
+    "display_name": "Cerulean Tower",
+    "description": "Luxury hotel and office tower south of the station with a jazz club.",
+    "kind": "tall",
+    "position": {
+      "x": -78,
+      "z": 208
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "shibuya_cast",
+    "display_name": "Shibuya CAST",
+    "description": "Mixed-use creative complex with co-working spaces, residences, shops, and event space.",
+    "kind": "tall",
+    "position": {
+      "x": -286,
+      "z": 208
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "sakura_stage",
+    "display_name": "Shibuya Sakura Stage",
+    "description": "Newly opened large-scale redevelopment project south of the station.",
+    "kind": "tall",
+    "position": {
+      "x": -14,
+      "z": 239
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "cross_tower",
+    "display_name": "Shibuya Cross Tower",
+    "description": "32-story office tower at the Aoyama-dori and Roppongi-dori junction.",
+    "kind": "tall",
+    "position": {
+      "x": 390,
+      "z": -156
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "infoss_tower",
+    "display_name": "Shibuya Infoss Tower",
+    "description": "Office tower in the Sakuragaoka area favored by media companies.",
+    "kind": "tall",
+    "position": {
+      "x": -104,
+      "z": 312
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "prime_plaza",
+    "display_name": "Shibuya Prime Plaza",
+    "description": "13-story office building in Maruyamacho, popular with creative agencies.",
+    "kind": "block",
+    "position": {
+      "x": -364,
+      "z": -153
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "fukuras",
+    "display_name": "Shibuya FUKURAS",
+    "description": "Commercial and office building with rooftop garden, west of the station.",
+    "kind": "tall",
+    "position": {
+      "x": -101,
+      "z": -14
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "shibuya_109",
+    "display_name": "SHIBUYA 109",
+    "description": "Iconic cylindrical fashion building at the Dogenzaka intersection.",
+    "kind": "block",
+    "position": {
+      "x": -156,
+      "z": -52
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "center_gai",
+    "display_name": "Center-gai Shopping Street",
+    "description": "Bustling pedestrian shopping street packed with fashion and food shops.",
+    "kind": "flat",
+    "position": {
+      "x": -200,
+      "z": -124
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "parco",
+    "display_name": "Shibuya PARCO",
+    "description": "Trendsetting department store with art galleries, theaters, and shops.",
+    "kind": "block",
+    "position": {
+      "x": -268,
+      "z": -196
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "loft",
+    "display_name": "Shibuya Loft",
+    "description": "Large lifestyle and stationery store on Udagawacho.",
+    "kind": "block",
+    "position": {
+      "x": -226,
+      "z": -320
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "tower_records",
+    "display_name": "Tower Records Shibuya",
+    "description": "Flagship music store, a cultural landmark for music lovers.",
+    "kind": "block",
+    "position": {
+      "x": -173,
+      "z": -275
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "mega_donki",
+    "display_name": "MEGA Don Quijote",
+    "description": "Massive discount store open late into the night.",
+    "kind": "block",
+    "position": {
+      "x": -83,
+      "z": -218
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "hands_shibuya",
+    "display_name": "Hands Shibuya",
+    "description": "Multi-floor DIY and lifestyle store on Udagawacho (formerly Tokyu Hands).",
+    "kind": "block",
+    "position": {
+      "x": -300,
+      "z": -144
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "dogenzaka_market",
+    "display_name": "Dogenzaka Market",
+    "description": "Small local supermarket on the slope of Dogenzaka.",
+    "kind": "block",
+    "position": {
+      "x": -418,
+      "z": -36
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "convenience_store",
+    "display_name": "FamilyMart Shibuya Central",
+    "description": "24-hour convenience store near the scramble crossing.",
+    "kind": "block",
+    "position": {
+      "x": -76,
+      "z": -148
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "pharmacy",
+    "display_name": "Matsumoto Kiyoshi Shibuya",
+    "description": "Popular pharmacy and drugstore on Center-gai.",
+    "kind": "block",
+    "position": {
+      "x": -234,
+      "z": -255
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "cafe_mameya",
+    "display_name": "KOFFEE MAMEYA",
+    "description": "Specialty single-origin coffee bean shop near Omotesando.",
+    "kind": "block",
+    "position": {
+      "x": 260,
+      "z": -468
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "cafe_streamer",
+    "display_name": "Streamer Coffee Company",
+    "description": "Latte-art-famous cafe with a bright open interior.",
+    "kind": "block",
+    "position": {
+      "x": 208,
+      "z": -156
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "cafe_fuglen",
+    "display_name": "Fuglen Tokyo",
+    "description": "Norwegian-style cafe by day, cocktail bar by night on Tomigaya side.",
+    "kind": "block",
+    "position": {
+      "x": -650,
+      "z": -468
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "ramen_nagi",
+    "display_name": "Ramen Nagi Shibuya",
+    "description": "Niboshi-style ramen joint open until late at night.",
+    "kind": "block",
+    "position": {
+      "x": -193,
+      "z": -205
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "izakaya_nonbei",
+    "display_name": "Nonbei Yokocho",
+    "description": "Historic alley of tiny izakayas and bars behind the station.",
+    "kind": "block",
+    "position": {
+      "x": 78,
+      "z": -104
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "sushi_midori",
+    "display_name": "Sushi no Midori",
+    "description": "Popular sushi restaurant with long queues on Mark City 4F.",
+    "kind": "block",
+    "position": {
+      "x": -48,
+      "z": 71
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "curry_moyan",
+    "display_name": "Moyan Curry",
+    "description": "Herbal spice curry restaurant with lunch buffet, established 1997.",
+    "kind": "block",
+    "position": {
+      "x": -273,
+      "z": -89
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "cafe_dogenzaka",
+    "display_name": "Cafe Dogenzaka",
+    "description": "Relaxed neighborhood cafe halfway up the Dogenzaka slope.",
+    "kind": "block",
+    "position": {
+      "x": -335,
+      "z": -46
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "bar_oath",
+    "display_name": "Bar OATH",
+    "description": "Underground DJ bar with house and techno music on Dogenzaka.",
+    "kind": "block",
+    "position": {
+      "x": -109,
+      "z": -277
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "family_restaurant",
+    "display_name": "Gusto Shibuya",
+    "description": "Affordable family restaurant with a drink bar, open until midnight.",
+    "kind": "block",
+    "position": {
+      "x": -17,
+      "z": -168
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "apt_a",
+    "display_name": "Apartment Sakuragaoka A",
+    "description": "Quiet residential building on the Sakuragaoka hillside.",
+    "kind": "block",
+    "position": {
+      "x": -49,
+      "z": 366
+    },
+    "resident_actor_ids": [
+      "mao_shimizu",
+      "ren_takahashi",
+      "sakura_endo",
+      "tsubasa_nishimura",
+      "yuki_tanaka"
+    ]
+  },
+  {
+    "id": "apt_b",
+    "display_name": "Apartment Sakuragaoka B",
+    "description": "Mid-rise residential block near Cerulean Tower.",
+    "kind": "block",
+    "position": {
+      "x": -182,
+      "z": 364
+    },
+    "resident_actor_ids": [
+      "ayumi_kobayashi",
+      "daiki_yamada",
+      "kenji_sato",
+      "mei_fujita"
+    ]
+  },
+  {
+    "id": "apt_c",
+    "display_name": "Apartment Nanpeidai C",
+    "description": "Residential building in the upscale Nanpeidai neighborhood.",
+    "kind": "block",
+    "position": {
+      "x": -491,
+      "z": -14
+    },
+    "resident_actor_ids": [
+      "haruto_inoue",
+      "rina_watanabe",
+      "saki_morita"
+    ]
+  },
+  {
+    "id": "apt_d",
+    "display_name": "Apartment Dogenzaka D",
+    "description": "Affordable apartments above the shops on Dogenzaka slope.",
+    "kind": "block",
+    "position": {
+      "x": -422,
+      "z": -188
+    },
+    "resident_actor_ids": [
+      "honoka_yoshida",
+      "misaki_takagi",
+      "ryuji_matsuo",
+      "shota_nakamura"
+    ]
+  },
+  {
+    "id": "apt_e",
+    "display_name": "Apartment Udagawacho E",
+    "description": "Compact studio apartments in the heart of Udagawacho.",
+    "kind": "block",
+    "position": {
+      "x": -299,
+      "z": -317
+    },
+    "resident_actor_ids": [
+      "aoi_nakagawa",
+      "kenta_abe"
+    ]
+  },
+  {
+    "id": "apt_f",
+    "display_name": "Apartment Kamiyamacho F",
+    "description": "Residential area in the quieter Kamiyamacho neighborhood.",
+    "kind": "block",
+    "position": {
+      "x": -572,
+      "z": -338
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "apt_g",
+    "display_name": "Apartment Shinsencho G",
+    "description": "Apartments near Shinsen Station on a gentle slope.",
+    "kind": "block",
+    "position": {
+      "x": -520,
+      "z": 78
+    },
+    "resident_actor_ids": [
+      "asuka_honda",
+      "hana_noguchi",
+      "koichi_maeda"
+    ]
+  },
+  {
+    "id": "apt_h",
+    "display_name": "Apartment Maruyamacho H",
+    "description": "Residential building in the entertainment district of Maruyamacho.",
+    "kind": "block",
+    "position": {
+      "x": -476,
+      "z": -252
+    },
+    "resident_actor_ids": [
+      "emi_goto",
+      "haruki_nomura"
+    ]
+  },
+  {
+    "id": "apt_i",
+    "display_name": "Apartment Higashi I",
+    "description": "East-side residential block near Aoyama-dori.",
+    "kind": "block",
+    "position": {
+      "x": 338,
+      "z": 156
+    },
+    "resident_actor_ids": [
+      "akira_sasaki",
+      "manami_kuroda",
+      "noriko_hamada",
+      "shingo_kawai"
+    ]
+  },
+  {
+    "id": "apt_j",
+    "display_name": "Apartment Aobadai J",
+    "description": "Serene residential area in the Aobadai hills.",
+    "kind": "block",
+    "position": {
+      "x": -676,
+      "z": 156
+    },
+    "resident_actor_ids": [
+      "ayaka_nishi",
+      "chihiro_matsumoto",
+      "goro_tanabe",
+      "megumi_sugiyama",
+      "tetsuya_kawano"
+    ]
+  },
+  {
+    "id": "apt_k",
+    "display_name": "Apartment Shoto K",
+    "description": "High-end residential area in the prestigious Shoto neighborhood.",
+    "kind": "block",
+    "position": {
+      "x": -525,
+      "z": -203
+    },
+    "resident_actor_ids": [
+      "fumiko_watanabe",
+      "kosuke_hayashi",
+      "makoto_sawada",
+      "sachiko_watanabe"
+    ]
+  },
+  {
+    "id": "apt_l",
+    "display_name": "Apartment Daikanyama L",
+    "description": "Stylish apartments near the Daikanyama T-Site area.",
+    "kind": "block",
+    "position": {
+      "x": 52,
+      "z": 416
+    },
+    "resident_actor_ids": [
+      "gen_harada",
+      "hinata_suzuki",
+      "masato_fujimoto",
+      "satoshi_kondo"
+    ]
+  },
+  {
+    "id": "apt_m",
+    "display_name": "Apartment Tomigaya M",
+    "description": "Residential building in the trendy Tomigaya area.",
+    "kind": "block",
+    "position": {
+      "x": -565,
+      "z": -468
+    },
+    "resident_actor_ids": [
+      "naomi_okamoto",
+      "sayuri_miura",
+      "yuji_hirano"
+    ]
+  },
+  {
+    "id": "apt_n",
+    "display_name": "Apartment Uguisudani N",
+    "description": "Affordable residential building with easy station access.",
+    "kind": "block",
+    "position": {
+      "x": 156,
+      "z": 312
+    },
+    "resident_actor_ids": [
+      "kanako_hirata",
+      "takumi_endo"
+    ]
+  },
+  {
+    "id": "apt_o",
+    "display_name": "Apartment Ebisu-minami O",
+    "description": "Residential building in the quieter south toward Ebisu.",
+    "kind": "block",
+    "position": {
+      "x": 260,
+      "z": 468
+    },
+    "resident_actor_ids": [
+      "kenichi_morimoto",
+      "miyuki_doi",
+      "takeo_kimoto"
+    ]
+  },
+  {
+    "id": "apt_p",
+    "display_name": "Apartment Jingumae P",
+    "description": "Apartments near Meiji-dori in the Harajuku direction.",
+    "kind": "block",
+    "position": {
+      "x": -208,
+      "z": -520
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "apt_q",
+    "display_name": "Apartment Hatsudai Q",
+    "description": "Residential building near Hatsudai, west of Shibuya.",
+    "kind": "block",
+    "position": {
+      "x": -780,
+      "z": 260
+    },
+    "resident_actor_ids": [
+      "tsuyoshi_mori",
+      "yoshiko_nakajima"
+    ]
+  },
+  {
+    "id": "apt_r",
+    "display_name": "Apartment Sendagaya R",
+    "description": "Quiet residential street on the Sendagaya side.",
+    "kind": "block",
+    "position": {
+      "x": 318,
+      "z": -526
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "miyashita_park",
+    "display_name": "Miyashita Park",
+    "description": "Renovated rooftop park with shops below and a skate area on top.",
+    "kind": "flat",
+    "position": {
+      "x": 1,
+      "z": -245
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "yoyogi_park",
+    "display_name": "Yoyogi Park",
+    "description": "Vast green space popular for jogging, picnics, and weekend events.",
+    "kind": "flat",
+    "position": {
+      "x": -520,
+      "z": -650
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "nabeshima_park",
+    "display_name": "Nabeshima Shoto Park",
+    "description": "Small scenic park with a pond in the Shoto residential area.",
+    "kind": "flat",
+    "position": {
+      "x": -592,
+      "z": -135
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "meiji_shrine",
+    "display_name": "Meiji Shrine",
+    "description": "Major Shinto shrine surrounded by old-growth forest at the edge of Harajuku.",
+    "kind": "flat",
+    "position": {
+      "x": -416,
+      "z": -832
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "nhk_hall",
+    "display_name": "NHK Hall",
+    "description": "Concert hall adjacent to NHK Broadcasting Center, hosts public recordings.",
+    "kind": "block",
+    "position": {
+      "x": -390,
+      "z": -520
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "bunkamura",
+    "display_name": "Bunkamura",
+    "description": "Cultural complex with theater, cinema, and art museum in Dogenzaka (under renovation until 2027).",
+    "kind": "block",
+    "position": {
+      "x": -441,
+      "z": -117
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "shibuya_library",
+    "display_name": "Shibuya City Library",
+    "description": "Public library with study spaces and a community reading room.",
+    "kind": "block",
+    "position": {
+      "x": 314,
+      "z": -161
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "culture_center",
+    "display_name": "Shibuya Cultural Center Owada",
+    "description": "Community center offering classes, workshops, and exhibition space.",
+    "kind": "block",
+    "position": {
+      "x": 468,
+      "z": -312
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "city_office",
+    "display_name": "Shibuya City Office",
+    "description": "Municipal government building handling resident services.",
+    "kind": "block",
+    "position": {
+      "x": 520,
+      "z": -208
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "shibuya_clinic",
+    "display_name": "Shibuya Clinic",
+    "description": "General medical clinic with internal medicine and minor surgery.",
+    "kind": "block",
+    "position": {
+      "x": 416,
+      "z": -78
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "dental_clinic",
+    "display_name": "Dental Clinic Aoyama",
+    "description": "Dental office on Aoyama-dori serving the neighborhood.",
+    "kind": "block",
+    "position": {
+      "x": 442,
+      "z": 78
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "police_box",
+    "display_name": "Shibuya Police Box",
+    "description": "Koban at the scramble crossing, a well-known landmark.",
+    "kind": "flat",
+    "position": {
+      "x": -54,
+      "z": -76
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "post_office",
+    "display_name": "Shibuya Post Office",
+    "description": "Main post office handling mail, parcels, and banking services.",
+    "kind": "block",
+    "position": {
+      "x": 135,
+      "z": 189
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "fire_station",
+    "display_name": "Shibuya Fire Station",
+    "description": "Fire and emergency services station for the Shibuya ward.",
+    "kind": "block",
+    "position": {
+      "x": 520,
+      "z": 104
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "fitness_gym",
+    "display_name": "Gold's Gym Shibuya",
+    "description": "Popular fitness gym near the station with 24-hour access.",
+    "kind": "block",
+    "position": {
+      "x": 104,
+      "z": -182
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "womb",
+    "display_name": "WOMB",
+    "description": "Iconic four-floor nightclub in Maruyamacho known for techno and house music.",
+    "kind": "block",
+    "position": {
+      "x": -381,
+      "z": -94
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "contact",
+    "display_name": "Contact Tokyo",
+    "description": "Underground electronic music club in Dogenzaka with a Funktion-One sound system.",
+    "kind": "block",
+    "position": {
+      "x": -338,
+      "z": 33
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "jrc_hospital",
+    "display_name": "Japanese Red Cross Medical Center",
+    "description": "Major hospital in Hiroo serving the Shibuya area with emergency and specialist care.",
+    "kind": "tall",
+    "position": {
+      "x": 650,
+      "z": 520
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "cinema",
+    "display_name": "Shibuya Toei Cinema",
+    "description": "Movie theater complex showing the latest releases.",
+    "kind": "block",
+    "position": {
+      "x": -134,
+      "z": -173
+    },
+    "resident_actor_ids": []
+  },
+  {
+    "id": "hair_salon",
+    "display_name": "Hair Salon Aoyama",
+    "description": "Trendy hair salon popular with young professionals.",
+    "kind": "block",
+    "position": {
+      "x": 284,
+      "z": -99
+    },
+    "resident_actor_ids": []
+  }
+]

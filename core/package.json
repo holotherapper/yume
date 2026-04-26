@@ -1,0 +1,23 @@
+{
+  "name": "core",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "server": "bun run src/server.ts",
+    "setup:agents": "bun run scripts/setup-managed-agents.ts",
+    "demo": "bun run scripts/demo-run.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.91.0",
+    "zod": "^4.3.6"
+  }
+}
